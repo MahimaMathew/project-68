@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+    color: darkred;
+    bottom: 0;
+    background-color: linear-gradient(#ffffff, hotpink);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
